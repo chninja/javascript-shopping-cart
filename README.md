@@ -4,5 +4,7 @@ To be improved on:
 - layout,
 - only have cart appear when an item added, 
 - Cart shows up as slide out menu
+
+
 @author Catherine Higgins 2018
 
