@@ -1,6 +1,8 @@
 # javascript-shopping-cart
 Course requirement for COMP260 Web-Development course at Athabasca University.
 
+Only works in some browser buggy in others.
+
 To be improved on: 
 - Layout design (not finished)
 - Cart only appear when an item added and disappears when cart is empty 
